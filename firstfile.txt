@@ -1,0 +1,3 @@
+this is line 1  for git project
+
+this first file is modified now;
